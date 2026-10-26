@@ -186,13 +186,19 @@ const OverlayCard: React.FC<{ children: React.ReactNode; t: number; start: numbe
   const e = easeOutCubic(clamp01((t - start) / 0.3));
   return (
     <>
-      {blur && <div style={{ position: 'absolute', inset: 0, backdropFilter: `blur(${10 * e}px)`, background: `rgba(20,12,9,${0.32 * e})` }} />}
+      {/* light scene darken to focus the glass card */}
+      {blur && <div style={{ position: 'absolute', inset: 0, background: `rgba(16,10,7,${0.24 * e})` }} />}
+      {/* frosted-glass card: blurred background shows through */}
       <div style={{
         position: 'absolute', left: W * 0.06, right: W * 0.17, top, minHeight: h,
         transform: `translateY(${(1 - e) * 40}px) scale(${0.94 + 0.06 * e})`, opacity: e,
-        background: `linear-gradient(160deg, ${C.cream}, ${C.beige})`, borderRadius: 40,
-        boxShadow: '0 30px 80px rgba(0,0,0,0.4)', padding: '48px 52px',
-        border: '1px solid rgba(255,255,255,0.5)',
+        background: `rgba(247,239,231,0.42)`,
+        backdropFilter: `blur(${30 * e}px) saturate(1.35)`,
+        WebkitBackdropFilter: `blur(${30 * e}px) saturate(1.35)`,
+        borderRadius: 40,
+        border: '1px solid rgba(255,255,255,0.55)',
+        boxShadow: '0 30px 80px rgba(0,0,0,0.45), inset 0 1px 0 rgba(255,255,255,0.65)',
+        padding: '48px 52px',
       }}>
         {children}
       </div>
