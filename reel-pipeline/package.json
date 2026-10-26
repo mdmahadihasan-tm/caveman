@@ -1,0 +1,35 @@
+{
+  "name": "reel-pipeline",
+  "version": "1.0.0",
+  "description": "Reusable studio-quality Instagram Reel pipeline (Remotion + Whisper/OCR + FFmpeg + procedural audio)",
+  "private": true,
+  "scripts": {
+    "pipeline": "bash scripts/run_all.sh",
+    "transcribe": ". .venv/bin/activate && (python scripts/transcribe.py && python scripts/build_transcript.py || python scripts/build_transcript.py)",
+    "plan": ". .venv/bin/activate && python scripts/build_transcript.py",
+    "sfx": "python scripts/make_sfx.py",
+    "base": "python scripts/build_base.py",
+    "masks": "python scripts/make_masks.py 4.0 30",
+    "music": "python scripts/make_music.py",
+    "mix": "python scripts/build_mix.py",
+    "preview": "remotion render reel output/preview.mp4 --scale=0.5 --crf=28",
+    "final": "remotion render reel output/final.mp4 --crf=16",
+    "studio": "remotion studio"
+  },
+  "dependencies": {
+    "@fontsource/montserrat": "5.0.19",
+    "@fontsource/poppins": "5.0.14",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.230",
+    "@remotion/cli": "4.0.230",
+    "@remotion/bundler": "4.0.230",
+    "@remotion/renderer": "4.0.230",
+    "zod": "3.23.8"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "typescript": "5.5.4"
+  }
+}

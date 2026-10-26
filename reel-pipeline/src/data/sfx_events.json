@@ -1,0 +1,144 @@
+{
+  "events": [
+    {
+      "name": "whoosh",
+      "t": 0.0,
+      "gain": 1.0
+    },
+    {
+      "name": "whoosh",
+      "t": 7.1,
+      "gain": 0.85
+    },
+    {
+      "name": "pop",
+      "t": 8.96,
+      "gain": 0.8
+    },
+    {
+      "name": "pop",
+      "t": 13.2,
+      "gain": 0.8
+    },
+    {
+      "name": "pop",
+      "t": 14.26,
+      "gain": 0.85
+    },
+    {
+      "name": "whoosh",
+      "t": 14.59,
+      "gain": 0.8
+    },
+    {
+      "name": "pop",
+      "t": 17.85,
+      "gain": 0.8
+    },
+    {
+      "name": "ding",
+      "t": 18.45,
+      "gain": 0.6
+    },
+    {
+      "name": "click",
+      "t": 18.57,
+      "gain": 0.5
+    },
+    {
+      "name": "whoosh",
+      "t": 25.0,
+      "gain": 0.9
+    },
+    {
+      "name": "pop",
+      "t": 26.47,
+      "gain": 0.85
+    },
+    {
+      "name": "pop",
+      "t": 27.27,
+      "gain": 0.85
+    },
+    {
+      "name": "pop",
+      "t": 27.97,
+      "gain": 0.85
+    },
+    {
+      "name": "pop",
+      "t": 29.04,
+      "gain": 0.9
+    },
+    {
+      "name": "whoosh",
+      "t": 30.42,
+      "gain": 0.85
+    },
+    {
+      "name": "pop",
+      "t": 32.49,
+      "gain": 0.8
+    },
+    {
+      "name": "pop",
+      "t": 33.37,
+      "gain": 0.8
+    },
+    {
+      "name": "pop",
+      "t": 34.57,
+      "gain": 0.8
+    },
+    {
+      "name": "flash",
+      "t": 35.3,
+      "gain": 0.65
+    },
+    {
+      "name": "ding",
+      "t": 35.85,
+      "gain": 0.85
+    },
+    {
+      "name": "riser",
+      "t": 36.1,
+      "gain": 0.8
+    },
+    {
+      "name": "flash",
+      "t": 37.61,
+      "gain": 0.9
+    },
+    {
+      "name": "ding",
+      "t": 37.8,
+      "gain": 0.6
+    },
+    {
+      "name": "pop",
+      "t": 43.08,
+      "gain": 0.8
+    },
+    {
+      "name": "pop",
+      "t": 44.34,
+      "gain": 0.8
+    },
+    {
+      "name": "ding",
+      "t": 47.05,
+      "gain": 0.8
+    },
+    {
+      "name": "click",
+      "t": 47.4,
+      "gain": 0.5
+    },
+    {
+      "name": "ding",
+      "t": 51.8,
+      "gain": 0.65
+    }
+  ]
+}

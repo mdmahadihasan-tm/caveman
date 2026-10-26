@@ -1,0 +1,1242 @@
+{
+  "out_total": 54.5,
+  "speed": 1.1506,
+  "words": [
+    {
+      "i": 0,
+      "word": "I",
+      "start": 0.043,
+      "end": 0.435
+    },
+    {
+      "i": 1,
+      "word": "stopped",
+      "start": 0.435,
+      "end": 0.782
+    },
+    {
+      "i": 2,
+      "word": "prenumbing",
+      "start": 0.782,
+      "end": 1.304
+    },
+    {
+      "i": 3,
+      "word": "my",
+      "start": 1.304,
+      "end": 1.477
+    },
+    {
+      "i": 4,
+      "word": "brow",
+      "start": 1.477,
+      "end": 1.695
+    },
+    {
+      "i": 5,
+      "word": "and",
+      "start": 1.695,
+      "end": 1.825
+    },
+    {
+      "i": 6,
+      "word": "lip",
+      "start": 1.825,
+      "end": 2.086
+    },
+    {
+      "i": 7,
+      "word": "clients",
+      "start": 2.086,
+      "end": 2.52
+    },
+    {
+      "i": 8,
+      "word": "over",
+      "start": 2.52,
+      "end": 2.825
+    },
+    {
+      "i": 9,
+      "word": "2",
+      "start": 2.825,
+      "end": 3.085
+    },
+    {
+      "i": 10,
+      "word": "years",
+      "start": 3.085,
+      "end": 3.476
+    },
+    {
+      "i": 11,
+      "word": "ago.",
+      "start": 3.476,
+      "end": 4.041
+    },
+    {
+      "i": 12,
+      "word": "Here's",
+      "start": 4.041,
+      "end": 4.302
+    },
+    {
+      "i": 13,
+      "word": "what",
+      "start": 4.302,
+      "end": 4.476
+    },
+    {
+      "i": 14,
+      "word": "I've",
+      "start": 4.476,
+      "end": 4.606
+    },
+    {
+      "i": 15,
+      "word": "learned.",
+      "start": 4.606,
+      "end": 4.841
+    },
+    {
+      "i": 16,
+      "word": "For",
+      "start": 4.841,
+      "end": 5.067
+    },
+    {
+      "i": 17,
+      "word": "every",
+      "start": 5.067,
+      "end": 5.275
+    },
+    {
+      "i": 18,
+      "word": "single",
+      "start": 5.275,
+      "end": 5.501
+    },
+    {
+      "i": 19,
+      "word": "service,",
+      "start": 5.501,
+      "end": 6.04
+    },
+    {
+      "i": 20,
+      "word": "but",
+      "start": 6.04,
+      "end": 6.257
+    },
+    {
+      "i": 21,
+      "word": "through",
+      "start": 6.257,
+      "end": 6.475
+    },
+    {
+      "i": 22,
+      "word": "the",
+      "start": 6.475,
+      "end": 6.579
+    },
+    {
+      "i": 23,
+      "word": "years",
+      "start": 6.579,
+      "end": 7.03
+    },
+    {
+      "i": 24,
+      "word": "I",
+      "start": 7.1,
+      "end": 7.273
+    },
+    {
+      "i": 25,
+      "word": "noticed",
+      "start": 7.273,
+      "end": 7.517
+    },
+    {
+      "i": 26,
+      "word": "something:",
+      "start": 7.517,
+      "end": 7.854
+    },
+    {
+      "i": 27,
+      "word": "anesthetic",
+      "start": 7.854,
+      "end": 8.374
+    },
+    {
+      "i": 28,
+      "word": "changes",
+      "start": 8.374,
+      "end": 8.808
+    },
+    {
+      "i": 29,
+      "word": "the",
+      "start": 8.808,
+      "end": 8.965
+    },
+    {
+      "i": 30,
+      "word": "texture",
+      "start": 8.965,
+      "end": 9.243
+    },
+    {
+      "i": 31,
+      "word": "of",
+      "start": 9.243,
+      "end": 9.356
+    },
+    {
+      "i": 32,
+      "word": "the",
+      "start": 9.356,
+      "end": 9.486
+    },
+    {
+      "i": 33,
+      "word": "skin,",
+      "start": 9.486,
+      "end": 9.79
+    },
+    {
+      "i": 34,
+      "word": "which",
+      "start": 9.79,
+      "end": 10.008
+    },
+    {
+      "i": 35,
+      "word": "makes",
+      "start": 10.008,
+      "end": 10.225
+    },
+    {
+      "i": 36,
+      "word": "it",
+      "start": 10.225,
+      "end": 10.338
+    },
+    {
+      "i": 37,
+      "word": "more",
+      "start": 10.338,
+      "end": 10.546
+    },
+    {
+      "i": 38,
+      "word": "difficult",
+      "start": 10.546,
+      "end": 10.877
+    },
+    {
+      "i": 39,
+      "word": "to",
+      "start": 10.877,
+      "end": 11.007
+    },
+    {
+      "i": 40,
+      "word": "see",
+      "start": 11.007,
+      "end": 11.416
+    },
+    {
+      "i": 41,
+      "word": "how",
+      "start": 11.416,
+      "end": 11.642
+    },
+    {
+      "i": 42,
+      "word": "the",
+      "start": 11.642,
+      "end": 11.815
+    },
+    {
+      "i": 43,
+      "word": "skin",
+      "start": 11.815,
+      "end": 11.989
+    },
+    {
+      "i": 44,
+      "word": "is",
+      "start": 11.989,
+      "end": 12.18
+    },
+    {
+      "i": 45,
+      "word": "responding",
+      "start": 12.18,
+      "end": 12.528
+    },
+    {
+      "i": 46,
+      "word": "to",
+      "start": 12.528,
+      "end": 12.632
+    },
+    {
+      "i": 47,
+      "word": "technique,",
+      "start": 12.632,
+      "end": 13.082
+    },
+    {
+      "i": 48,
+      "word": "as",
+      "start": 13.082,
+      "end": 13.282
+    },
+    {
+      "i": 49,
+      "word": "well",
+      "start": 13.282,
+      "end": 13.413
+    },
+    {
+      "i": 50,
+      "word": "as",
+      "start": 13.413,
+      "end": 13.526
+    },
+    {
+      "i": 51,
+      "word": "how",
+      "start": 13.526,
+      "end": 13.717
+    },
+    {
+      "i": 52,
+      "word": "it's",
+      "start": 13.717,
+      "end": 13.847
+    },
+    {
+      "i": 53,
+      "word": "accepting",
+      "start": 13.847,
+      "end": 14.256
+    },
+    {
+      "i": 54,
+      "word": "color.",
+      "start": 14.256,
+      "end": 14.586
+    },
+    {
+      "i": 55,
+      "word": "This",
+      "start": 14.586,
+      "end": 14.898
+    },
+    {
+      "i": 56,
+      "word": "ultimately",
+      "start": 14.898,
+      "end": 15.437
+    },
+    {
+      "i": 57,
+      "word": "led",
+      "start": 15.437,
+      "end": 15.68
+    },
+    {
+      "i": 58,
+      "word": "to",
+      "start": 15.68,
+      "end": 15.984
+    },
+    {
+      "i": 59,
+      "word": "longer",
+      "start": 15.984,
+      "end": 16.306
+    },
+    {
+      "i": 60,
+      "word": "appointment",
+      "start": 16.306,
+      "end": 16.68
+    },
+    {
+      "i": 61,
+      "word": "times",
+      "start": 16.68,
+      "end": 17.088
+    },
+    {
+      "i": 62,
+      "word": "and",
+      "start": 17.088,
+      "end": 17.505
+    },
+    {
+      "i": 63,
+      "word": "uneven",
+      "start": 17.505,
+      "end": 17.853
+    },
+    {
+      "i": 64,
+      "word": "healed",
+      "start": 17.853,
+      "end": 18.183
+    },
+    {
+      "i": 65,
+      "word": "results.",
+      "start": 18.183,
+      "end": 18.568
+    },
+    {
+      "i": 66,
+      "word": "When",
+      "start": 18.568,
+      "end": 18.759
+    },
+    {
+      "i": 67,
+      "word": "I",
+      "start": 18.759,
+      "end": 18.898
+    },
+    {
+      "i": 68,
+      "word": "stopped",
+      "start": 18.898,
+      "end": 19.133
+    },
+    {
+      "i": 69,
+      "word": "numbing",
+      "start": 19.133,
+      "end": 19.333
+    },
+    {
+      "i": 70,
+      "word": "every",
+      "start": 19.333,
+      "end": 19.628
+    },
+    {
+      "i": 71,
+      "word": "single",
+      "start": 19.628,
+      "end": 19.872
+    },
+    {
+      "i": 72,
+      "word": "brow",
+      "start": 19.872,
+      "end": 20.063
+    },
+    {
+      "i": 73,
+      "word": "and",
+      "start": 20.063,
+      "end": 20.202
+    },
+    {
+      "i": 74,
+      "word": "lip",
+      "start": 20.202,
+      "end": 20.324
+    },
+    {
+      "i": 75,
+      "word": "client,",
+      "start": 20.324,
+      "end": 20.828
+    },
+    {
+      "i": 76,
+      "word": "I",
+      "start": 20.828,
+      "end": 21.002
+    },
+    {
+      "i": 77,
+      "word": "was",
+      "start": 21.002,
+      "end": 21.158
+    },
+    {
+      "i": 78,
+      "word": "able",
+      "start": 21.158,
+      "end": 21.306
+    },
+    {
+      "i": 79,
+      "word": "to",
+      "start": 21.306,
+      "end": 21.436
+    },
+    {
+      "i": 80,
+      "word": "clearly",
+      "start": 21.436,
+      "end": 21.827
+    },
+    {
+      "i": 81,
+      "word": "see",
+      "start": 21.827,
+      "end": 22.218
+    },
+    {
+      "i": 82,
+      "word": "how",
+      "start": 22.218,
+      "end": 22.348
+    },
+    {
+      "i": 83,
+      "word": "the",
+      "start": 22.348,
+      "end": 22.539
+    },
+    {
+      "i": 84,
+      "word": "skin",
+      "start": 22.539,
+      "end": 22.713
+    },
+    {
+      "i": 85,
+      "word": "responded",
+      "start": 22.713,
+      "end": 23.017
+    },
+    {
+      "i": 86,
+      "word": "to",
+      "start": 23.017,
+      "end": 23.147
+    },
+    {
+      "i": 87,
+      "word": "my",
+      "start": 23.147,
+      "end": 23.339
+    },
+    {
+      "i": 88,
+      "word": "technique,",
+      "start": 23.339,
+      "end": 23.751
+    },
+    {
+      "i": 89,
+      "word": "which",
+      "start": 23.751,
+      "end": 24.036
+    },
+    {
+      "i": 90,
+      "word": "meant",
+      "start": 24.036,
+      "end": 24.279
+    },
+    {
+      "i": 91,
+      "word": "that",
+      "start": 24.279,
+      "end": 24.383
+    },
+    {
+      "i": 92,
+      "word": "I",
+      "start": 24.383,
+      "end": 24.488
+    },
+    {
+      "i": 93,
+      "word": "could",
+      "start": 24.488,
+      "end": 24.609
+    },
+    {
+      "i": 94,
+      "word": "make",
+      "start": 24.609,
+      "end": 24.757
+    },
+    {
+      "i": 95,
+      "word": "adjustments",
+      "start": 24.757,
+      "end": 25.192
+    },
+    {
+      "i": 96,
+      "word": "to",
+      "start": 25.192,
+      "end": 25.71
+    },
+    {
+      "i": 97,
+      "word": "stroke",
+      "start": 25.71,
+      "end": 26.057
+    },
+    {
+      "i": 98,
+      "word": "length,",
+      "start": 26.057,
+      "end": 26.466
+    },
+    {
+      "i": 99,
+      "word": "needle",
+      "start": 26.466,
+      "end": 26.752
+    },
+    {
+      "i": 100,
+      "word": "choice,",
+      "start": 26.752,
+      "end": 27.273
+    },
+    {
+      "i": 101,
+      "word": "hand",
+      "start": 27.273,
+      "end": 27.621
+    },
+    {
+      "i": 102,
+      "word": "speed,",
+      "start": 27.621,
+      "end": 27.968
+    },
+    {
+      "i": 103,
+      "word": "machine",
+      "start": 27.968,
+      "end": 28.464
+    },
+    {
+      "i": 104,
+      "word": "speed,",
+      "start": 28.464,
+      "end": 28.724
+    },
+    {
+      "i": 105,
+      "word": "or",
+      "start": 28.724,
+      "end": 29.037
+    },
+    {
+      "i": 106,
+      "word": "pressure",
+      "start": 29.037,
+      "end": 29.576
+    },
+    {
+      "i": 107,
+      "word": "in",
+      "start": 29.576,
+      "end": 29.75
+    },
+    {
+      "i": 108,
+      "word": "real",
+      "start": 29.75,
+      "end": 30.028
+    },
+    {
+      "i": 109,
+      "word": "time.",
+      "start": 30.028,
+      "end": 30.418
+    },
+    {
+      "i": 110,
+      "word": "This",
+      "start": 30.418,
+      "end": 30.644
+    },
+    {
+      "i": 111,
+      "word": "took",
+      "start": 30.644,
+      "end": 30.792
+    },
+    {
+      "i": 112,
+      "word": "out",
+      "start": 30.792,
+      "end": 30.905
+    },
+    {
+      "i": 113,
+      "word": "the",
+      "start": 30.905,
+      "end": 31.009
+    },
+    {
+      "i": 114,
+      "word": "guesswork",
+      "start": 31.009,
+      "end": 31.513
+    },
+    {
+      "i": 115,
+      "word": "of",
+      "start": 31.513,
+      "end": 31.809
+    },
+    {
+      "i": 116,
+      "word": "needing",
+      "start": 31.809,
+      "end": 32.07
+    },
+    {
+      "i": 117,
+      "word": "to",
+      "start": 32.07,
+      "end": 32.269
+    },
+    {
+      "i": 118,
+      "word": "try",
+      "start": 32.269,
+      "end": 32.487
+    },
+    {
+      "i": 119,
+      "word": "three",
+      "start": 32.487,
+      "end": 32.817
+    },
+    {
+      "i": 120,
+      "word": "different",
+      "start": 32.817,
+      "end": 33.095
+    },
+    {
+      "i": 121,
+      "word": "needles,",
+      "start": 33.095,
+      "end": 33.373
+    },
+    {
+      "i": 122,
+      "word": "three",
+      "start": 33.373,
+      "end": 33.596
+    },
+    {
+      "i": 123,
+      "word": "different",
+      "start": 33.596,
+      "end": 33.813
+    },
+    {
+      "i": 124,
+      "word": "hand",
+      "start": 33.813,
+      "end": 34.048
+    },
+    {
+      "i": 125,
+      "word": "speeds,",
+      "start": 34.048,
+      "end": 34.36
+    },
+    {
+      "i": 126,
+      "word": "or",
+      "start": 34.36,
+      "end": 34.569
+    },
+    {
+      "i": 127,
+      "word": "three",
+      "start": 34.569,
+      "end": 34.795
+    },
+    {
+      "i": 128,
+      "word": "different",
+      "start": 34.795,
+      "end": 34.969
+    },
+    {
+      "i": 129,
+      "word": "machine",
+      "start": 34.969,
+      "end": 35.247
+    },
+    {
+      "i": 130,
+      "word": "speeds",
+      "start": 35.247,
+      "end": 35.542
+    },
+    {
+      "i": 131,
+      "word": "to",
+      "start": 35.542,
+      "end": 35.664
+    },
+    {
+      "i": 132,
+      "word": "get",
+      "start": 35.664,
+      "end": 35.873
+    },
+    {
+      "i": 133,
+      "word": "the",
+      "start": 35.873,
+      "end": 35.994
+    },
+    {
+      "i": 134,
+      "word": "result",
+      "start": 35.994,
+      "end": 36.22
+    },
+    {
+      "i": 135,
+      "word": "that",
+      "start": 36.22,
+      "end": 36.42
+    },
+    {
+      "i": 136,
+      "word": "I",
+      "start": 36.42,
+      "end": 36.594
+    },
+    {
+      "i": 137,
+      "word": "wanted.",
+      "start": 36.594,
+      "end": 36.744
+    },
+    {
+      "i": 138,
+      "word": "And",
+      "start": 36.744,
+      "end": 36.928
+    },
+    {
+      "i": 139,
+      "word": "here's",
+      "start": 36.928,
+      "end": 37.145
+    },
+    {
+      "i": 140,
+      "word": "my",
+      "start": 37.145,
+      "end": 37.275
+    },
+    {
+      "i": 141,
+      "word": "biggest",
+      "start": 37.275,
+      "end": 37.606
+    },
+    {
+      "i": 142,
+      "word": "takeaway:",
+      "start": 37.606,
+      "end": 37.932
+    },
+    {
+      "i": 143,
+      "word": "if",
+      "start": 37.961,
+      "end": 38.187
+    },
+    {
+      "i": 144,
+      "word": "your",
+      "start": 38.187,
+      "end": 38.396
+    },
+    {
+      "i": 145,
+      "word": "client",
+      "start": 38.396,
+      "end": 38.622
+    },
+    {
+      "i": 146,
+      "word": "is",
+      "start": 38.622,
+      "end": 38.856
+    },
+    {
+      "i": 147,
+      "word": "experiencing",
+      "start": 38.856,
+      "end": 39.491
+    },
+    {
+      "i": 148,
+      "word": "more",
+      "start": 39.491,
+      "end": 39.925
+    },
+    {
+      "i": 149,
+      "word": "discomfort",
+      "start": 39.925,
+      "end": 40.36
+    },
+    {
+      "i": 150,
+      "word": "than",
+      "start": 40.36,
+      "end": 40.594
+    },
+    {
+      "i": 151,
+      "word": "usual,",
+      "start": 40.594,
+      "end": 41.119
+    },
+    {
+      "i": 152,
+      "word": "don't",
+      "start": 41.188,
+      "end": 41.414
+    },
+    {
+      "i": 153,
+      "word": "be",
+      "start": 41.414,
+      "end": 41.536
+    },
+    {
+      "i": 154,
+      "word": "so",
+      "start": 41.536,
+      "end": 41.736
+    },
+    {
+      "i": 155,
+      "word": "quick",
+      "start": 41.736,
+      "end": 41.97
+    },
+    {
+      "i": 156,
+      "word": "to",
+      "start": 41.97,
+      "end": 42.17
+    },
+    {
+      "i": 157,
+      "word": "blame.",
+      "start": 42.17,
+      "end": 42.492
+    },
+    {
+      "i": 158,
+      "word": "Oh,",
+      "start": 42.492,
+      "end": 42.631
+    },
+    {
+      "i": 159,
+      "word": "maybe",
+      "start": 42.631,
+      "end": 42.839
+    },
+    {
+      "i": 160,
+      "word": "they",
+      "start": 42.839,
+      "end": 42.952
+    },
+    {
+      "i": 161,
+      "word": "had",
+      "start": 42.952,
+      "end": 43.083
+    },
+    {
+      "i": 162,
+      "word": "caffeine,",
+      "start": 43.083,
+      "end": 43.587
+    },
+    {
+      "i": 163,
+      "word": "or",
+      "start": 43.587,
+      "end": 43.708
+    },
+    {
+      "i": 164,
+      "word": "maybe",
+      "start": 43.708,
+      "end": 43.908
+    },
+    {
+      "i": 165,
+      "word": "they",
+      "start": 43.908,
+      "end": 44.039
+    },
+    {
+      "i": 166,
+      "word": "just",
+      "start": 44.039,
+      "end": 44.169
+    },
+    {
+      "i": 167,
+      "word": "have",
+      "start": 44.169,
+      "end": 44.343
+    },
+    {
+      "i": 168,
+      "word": "sensitive",
+      "start": 44.343,
+      "end": 44.691
+    },
+    {
+      "i": 169,
+      "word": "skin.",
+      "start": 44.691,
+      "end": 45.143
+    },
+    {
+      "i": 170,
+      "word": "Instead,",
+      "start": 45.169,
+      "end": 45.726
+    },
+    {
+      "i": 171,
+      "word": "take",
+      "start": 45.726,
+      "end": 45.952
+    },
+    {
+      "i": 172,
+      "word": "a",
+      "start": 45.952,
+      "end": 46.073
+    },
+    {
+      "i": 173,
+      "word": "look",
+      "start": 46.073,
+      "end": 46.212
+    },
+    {
+      "i": 174,
+      "word": "at",
+      "start": 46.212,
+      "end": 46.317
+    },
+    {
+      "i": 175,
+      "word": "your",
+      "start": 46.317,
+      "end": 46.508
+    },
+    {
+      "i": 176,
+      "word": "technique",
+      "start": 46.508,
+      "end": 46.838
+    },
+    {
+      "i": 177,
+      "word": "and",
+      "start": 46.838,
+      "end": 47.055
+    },
+    {
+      "i": 178,
+      "word": "tools,",
+      "start": 47.055,
+      "end": 47.373
+    },
+    {
+      "i": 179,
+      "word": "because",
+      "start": 47.373,
+      "end": 47.721
+    },
+    {
+      "i": 180,
+      "word": "great",
+      "start": 47.721,
+      "end": 48.043
+    },
+    {
+      "i": 181,
+      "word": "results",
+      "start": 48.043,
+      "end": 48.356
+    },
+    {
+      "i": 182,
+      "word": "aren't",
+      "start": 48.356,
+      "end": 48.59
+    },
+    {
+      "i": 183,
+      "word": "only",
+      "start": 48.59,
+      "end": 48.999
+    },
+    {
+      "i": 184,
+      "word": "about",
+      "start": 48.999,
+      "end": 49.242
+    },
+    {
+      "i": 185,
+      "word": "making",
+      "start": 49.242,
+      "end": 49.459
+    },
+    {
+      "i": 186,
+      "word": "sure",
+      "start": 49.459,
+      "end": 49.659
+    },
+    {
+      "i": 187,
+      "word": "your",
+      "start": 49.659,
+      "end": 49.807
+    },
+    {
+      "i": 188,
+      "word": "clients",
+      "start": 49.807,
+      "end": 50.007
+    },
+    {
+      "i": 189,
+      "word": "are",
+      "start": 50.007,
+      "end": 50.155
+    },
+    {
+      "i": 190,
+      "word": "comfortable.",
+      "start": 50.155,
+      "end": 50.763
+    },
+    {
+      "i": 191,
+      "word": "They're",
+      "start": 50.763,
+      "end": 50.98
+    },
+    {
+      "i": 192,
+      "word": "about",
+      "start": 50.98,
+      "end": 51.111
+    },
+    {
+      "i": 193,
+      "word": "understanding",
+      "start": 51.111,
+      "end": 51.719
+    },
+    {
+      "i": 194,
+      "word": "the",
+      "start": 51.719,
+      "end": 51.832
+    },
+    {
+      "i": 195,
+      "word": "skin",
+      "start": 51.832,
+      "end": 51.98
+    },
+    {
+      "i": 196,
+      "word": "you're",
+      "start": 51.98,
+      "end": 52.18
+    },
+    {
+      "i": 197,
+      "word": "working",
+      "start": 52.18,
+      "end": 52.414
+    },
+    {
+      "i": 198,
+      "word": "on",
+      "start": 52.414,
+      "end": 52.588
+    },
+    {
+      "i": 199,
+      "word": "and",
+      "start": 52.588,
+      "end": 52.718
+    },
+    {
+      "i": 200,
+      "word": "how",
+      "start": 52.718,
+      "end": 52.91
+    },
+    {
+      "i": 201,
+      "word": "to",
+      "start": 52.91,
+      "end": 53.031
+    },
+    {
+      "i": 202,
+      "word": "adjust",
+      "start": 53.031,
+      "end": 53.37
+    },
+    {
+      "i": 203,
+      "word": "your",
+      "start": 53.37,
+      "end": 53.587
+    },
+    {
+      "i": 204,
+      "word": "technique",
+      "start": 53.587,
+      "end": 53.918
+    },
+    {
+      "i": 205,
+      "word": "accordingly.",
+      "start": 53.918,
+      "end": 54.457
+    }
+  ]
+}
